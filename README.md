@@ -1,5 +1,3 @@
-
-Fork on GitHub6797
 <h1 align="center">Hi 👋, I'm Priyanshu Patel</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
